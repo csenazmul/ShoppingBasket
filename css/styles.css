@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  h1.logo {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+  }
+  
+  .basket-item img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+  }
+  
+  .basket-item h5 {
+    font-size: 1rem;
+  }
+  
+  .basket-item small {
+    color: gray;
+  }
+  
+  header {
+    background-color: white;
+  }
+  
+  header .nav-link {
+    color: black;
+  }
+  
+  header .btn {
+    font-weight: 500;
+  }
+  
+  .order-summary {
+    background-color: #f8f9fa;
+  }
+  
+  .btn-success {
+    background-color: #3a873f;
+    border: none;
+  }
+  
